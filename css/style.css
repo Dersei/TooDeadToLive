@@ -171,7 +171,7 @@ img::-moz-selection {
 header.head-top {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg.jpg");
+  background-image: url("../img/header.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -184,9 +184,9 @@ header.head-top .intro-text {
 }
 
 header.head-top .intro-text .intro-lead-in {
-  font-size: 22px;
+  font-size: 26px;
   font-style: italic;
-  line-height: 22px;
+  line-height: 26px;
   margin-bottom: 25px;
   font-family: sans-serif;
 }
@@ -201,12 +201,11 @@ header.head-top .intro-text .intro-heading {
 
 @media (min-width: 768px) {
   header.head-top .intro-text {
-    padding-top: 300px;
-    padding-bottom: 200px;
+    padding-top: 200px;
+    padding-bottom: 100px;
   }
   header.head-top .intro-text .intro-lead-in {
     font-size: 40px;
-    font-style: italic;
     line-height: 40px;
     margin-bottom: 25px;
     font-family: sans-serif;
@@ -215,7 +214,7 @@ header.head-top .intro-text .intro-heading {
     font-size: 75px;
     font-weight: 700;
     line-height: 75px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     font-family: sans-serif;
   }
 }
