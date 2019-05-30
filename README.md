@@ -6,4 +6,4 @@ Website for the best game in the galaxy, more or less.
 
 
 
-Copyright by Joanna Andziak
+*Created by Joanna Andziak*
